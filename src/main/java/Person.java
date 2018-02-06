@@ -1,5 +1,3 @@
-package com.egor;
-
 import java.lang.*;
 
 class Person implements Comparable {

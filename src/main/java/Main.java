@@ -1,5 +1,3 @@
-package com.egor;
-
 import java.util.*;
 import java.lang.*;
 
